@@ -1,4 +1,4 @@
-const API_URL = "https://arduino-backend.onrender.com/distance"; // <– DEINE URL
+const API_URL = "https://arduino-backend-yfr3.onrender.com"; // <– DEINE URL
 
 async function fetchDistance() {
   try {
